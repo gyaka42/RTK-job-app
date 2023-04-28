@@ -89,6 +89,15 @@
       "status": "Reddedildi",
       "type": "Uzaktan",
       "date": "3/28/2023"
+    },
+    {
+      "id": 1682687556269,
+      "position": "Frontend",
+      "company": "udemig",
+      "location": "Ankara",
+      "status": "Devam Ediyor",
+      "type": "Yari zaman",
+      "date": "28-4-2023"
     }
   ]
 }
